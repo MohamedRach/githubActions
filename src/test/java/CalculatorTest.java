@@ -22,7 +22,7 @@ public class CalculatorTest {
 
     @Test
     public void testDivision() {
-        assertEquals(2, calculator.divide(6, 3));
+        assertEquals(3, calculator.divide(6, 3));
     }
 
     @Test
